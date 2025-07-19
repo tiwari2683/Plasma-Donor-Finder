@@ -29,6 +29,13 @@ Socket.io: Real-time communication
 JWT: Secure authentication
 Geolocation: Location services
 
+## 🎥 Demo Video
+
+<video controls>
+  <source src="https://raw.githubusercontent.com/yourusername/plasma-donor-finder/main/assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 🚀 Prerequisites
 
 Node.js (v14+)
